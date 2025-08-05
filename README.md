@@ -1,6 +1,6 @@
-#👨‍💻 Gabriel Pontes 
+👨‍💻 **`Gabriel Pontes`** 
 
-**`Desenvolvedor FullStack`**
+**`Programador`**
 
  Olá! Me chamo Gabriel Pontes, tenho 22 anos e sou natural do Rio de Janeiro.
 🎓 Atualmente, sou estudante de Engenharia de Software na Faculdade Severino Sombra.
