@@ -70,13 +70,6 @@ Estou focado em evoluir como desenvolvedor e contribuir com projetos que impacte
     src="https://github-readme-stats.vercel.app/api?username=GBpontes22&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBpontes22&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
 
 
